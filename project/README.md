@@ -6,6 +6,9 @@ The provided code is a simple web application built using Flask, a popular Pytho
 
 #### You can experience using this project at the following address:
 https://mostafa314.pythonanywhere.com
+<p align="center">
+ <img src="https://github.com/mostafapiran/CS50P_2023/blob/main/project/1.png">
+</p>
 
 ### 1. Flask Application Setup:
 
